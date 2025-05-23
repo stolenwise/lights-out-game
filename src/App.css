@@ -1,3 +1,15 @@
 .App {
   text-align: center;
 }
+
+flipCell {
+  display: inline-block;
+  border: 1px solid black;
+  width: 100px;
+  height: 100px;
+  background-color: #282c34;
+  color: white;
+  font-size: 70px;
+  font-weight: bold;
+  line-height: 100px;
+}
